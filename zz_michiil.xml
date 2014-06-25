@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote fetch="http://github.com/" name="gh" revision="master" />
+
+  <remove-project name="SlimRoms/frameworks_base" />
+  <remove-project name="SlimRoms/hardware_libhardware_legacy" />
+  <remove-project name="SlimRoms/kernel_asus_grouper" />
+  <remove-project name="SlimRoms/device_asus_grouper" />
+
+  <project name="michiil/frameworks_base" path="frameworks/base" remote="gh" revision="kk4.4" />
+  <project name="michiil/hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="gh" revision="kk4.4" />
+  <project name="souljaboy11792/oxydo-grouper" path="kernel/asus/grouper" remote="gh" revision="rel" />
+  <project name="michiil/device_asus_grouper" path="device/asus/grouper" remote="gh" revision="kk4.4" />
+
+</manifest>
