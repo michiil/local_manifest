@@ -7,10 +7,14 @@
   <remove-project name="SlimRoms/hardware_libhardware_legacy" />
   <remove-project name="SlimRoms/kernel_asus_grouper" />
   <remove-project name="SlimRoms/device_asus_grouper" />
+  <remove-project name="SlimRoms/android_system_vold" />
+  <remove-project name="SlimRoms/packages_apps_Settings" />
 
   <project name="michiil/frameworks_base" path="frameworks/base" remote="gh" revision="kk4.4" />
   <project name="michiil/hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="gh" revision="kk4.4" />
   <project name="souljaboy11792/oxydo-grouper" path="kernel/asus/grouper" remote="gh" revision="rel" />
   <project name="michiil/device_asus_grouper" path="device/asus/grouper" remote="gh" revision="kk4.4" />
+  <project name="michiil/android_system_vold" path="system/vold" remote="gh" revision="kk4.4" />
+  <project name="michiil/packages_apps_Settings" path="packages/apps/Settings" remote="gh" revision="kk4.4" />
 
 </manifest>
