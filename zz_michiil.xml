@@ -15,6 +15,7 @@
   <project name="souljaboy11792/oxydo-grouper" path="kernel/asus/grouper" remote="gh" revision="rel" />
   <project name="michiil/device_asus_grouper" path="device/asus/grouper" remote="gh" revision="kk4.4" />
   <project name="michiil/android_system_vold" path="system/vold" remote="gh" revision="kk4.4" />
+  <project name="michiil/packages_apps_Settings" path="packages/apps/Settings" remote="gh" revision="kk4.4" />
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="gh" revision="cm11" />
   <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" remote="gh" revision="cm11" />
   <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" remote="gh" revision="cm11" />
