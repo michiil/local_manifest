@@ -16,12 +16,12 @@
   <project name="michiil/device_asus_grouper" path="device/asus/grouper" remote="gh" revision="kk4.4" />
   <project name="michiil/android_system_vold" path="system/vold" remote="gh" revision="kk4.4" />
   <project name="michiil/packages_apps_Settings" path="packages/apps/Settings" remote="gh" revision="kk4.4" />
-  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="gh" revision="cm11" />
-  <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" remote="gh" revision="cm11" />
-  <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" remote="gh" revision="cm11" />
-  <project name="TheMuppets/proprietary_vendor_invensense" path="vendor/invensense" remote="gh" revision="cm11" />
-  <project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia" remote="gh" revision="cm11" />
-  <project name="TheMuppets/proprietary_vendor_nxp" path="vendor/nxp" remote="gh" revision="cm11" />
-  <project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine" remote="gh" revision="cm11" />
+  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="gh" revision="cm-11.0" />
+  <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" remote="gh" revision="cm-11.0" />
+  <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" remote="gh" revision="cm-11.0" />
+  <project name="TheMuppets/proprietary_vendor_invensense" path="vendor/invensense" remote="gh" revision="cm-11.0" />
+  <project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia" remote="gh" revision="cm-11.0" />
+  <project name="TheMuppets/proprietary_vendor_nxp" path="vendor/nxp" remote="gh" revision="cm-11.0" />
+  <project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine" remote="gh" revision="cm-11.0" />
 
 </manifest>
