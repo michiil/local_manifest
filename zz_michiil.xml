@@ -7,15 +7,28 @@
   <remove-project name="SlimRoms/hardware_libhardware_legacy" />
   <remove-project name="SlimRoms/kernel_asus_grouper" />
   <remove-project name="SlimRoms/device_asus_grouper" />
+  <remove-project name="SlimRoms/device_asus_tilapia" />
   <remove-project name="SlimRoms/android_system_vold" />
   <remove-project name="SlimRoms/packages_apps_Settings" />
+  <remove-project name="SlimRoms/android_build" />
+  <remove-project name="SlimRoms/vendor_slim" />
+  <remove-project name="platform/packages/apps/Launcher3" />
+  <remove-project name="SlimRoms/packages_apps_SlimCenter" />
 
   <project name="michiil/frameworks_base" path="frameworks/base" remote="gh" revision="kk4.4" />
   <project name="michiil/hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="gh" revision="kk4.4" />
-  <project name="souljaboy11792/oxydo-grouper" path="kernel/asus/grouper" remote="gh" revision="rel" />
   <project name="michiil/device_asus_grouper" path="device/asus/grouper" remote="gh" revision="kk4.4" />
-  <project name="michiil/android_system_vold" path="system/vold" remote="gh" revision="kk4.4" />
+  <project name="michiil/device_asus_tilapia" path="device/asus/tilapia" remote="gh" revision="kk4.4" />
   <project name="michiil/packages_apps_Settings" path="packages/apps/Settings" remote="gh" revision="kk4.4" />
+  <project name="LiquidSmooth/android_system_vold" path="system/vold" remote="gh" revision="kitkat" />
+  <project name="lostdeveloper/kangaroo" path="kernel/asus/grouper" remote="gh" revision="master" />
+  <project name="michiil/android_build" path="build" remote="gh" revision="kk4.4" />
+  <project name="michiil/vendor_slim" path="vendor/slim" remote="gh" revision="kk4.4" />
+  <project name="omnirom/android_external_ntfs-3g" path="external/ntfs-3g" remote="gh" revision="android-4.4"/>
+  <project name="omnirom/android_packages_apps_Launcher3" path="packages/apps/Launcher3" remote="gh" revision="android-4.4" />
+  <project name="michiil/android_packages_apps_OpenDelta" path="packages/apps/OpenDelta" remote="gh" revision="android-4.4" />
+  <project name="michiil/android_packages_apps_Apollo" path="packages/apps/Apollo" remote="gh" revision="cm-10.1" />
+
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="gh" revision="cm-11.0" />
   <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" remote="gh" revision="cm-11.0" />
   <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" remote="gh" revision="cm-11.0" />
